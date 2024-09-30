@@ -25,6 +25,7 @@ function App() {
         <option value="2">obyczajowy</option>
         <option value="3">sensacyjny</option>
       </select>
+     <div><button type="submit" class="btn btn-primary">submit</button></div>
     </div>
   );
 }
